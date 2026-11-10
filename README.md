@@ -1,3 +1,4 @@
+![Adamantite Expansion](banner.png)
 
 *💎 ADAMANTITE EXPANSION*
 -
