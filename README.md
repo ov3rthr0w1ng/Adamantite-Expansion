@@ -1,4 +1,6 @@
-![Uploading cda8eeb8-4118-4fe4-b547-30c3667d7ba6.png…]()
+<p align="center">
+  <img src="./cda8eeb8-4118-4fe4-b547-30c3667d7ba6.png" alt="Adamantite Expansion" width="100%">
+</p>
 
 *💎 ADAMANTITE EXPANSION*
 -
