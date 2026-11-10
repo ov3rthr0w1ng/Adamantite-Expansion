@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./cda8eeb8-4118-4fe4-b547-30c3667d7ba6.png" alt="Adamantite Expansion" width="100%">
+  <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_PNG"
+       alt="Adamantite Expansion"
+       width="100%">
 </p>
-
 *💎 ADAMANTITE EXPANSION*
 -
 Adamantite Expansion - контентный мод для Minecraft 1.12.2, расширяющий позднюю стадию игры за счёт добавления нового редкого и прочного металла - адамантита. Мод вводит полноценную ветку развития, включающую генерацию новой руды, переработку ресурсов, создание инструментов, оружия и брони.
